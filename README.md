@@ -12,3 +12,5 @@ These exercises are done mainly to make sure that I understood the material prop
 - [Chapter 1](https://github.com/rcshubhadeep/qc4cs/tree/master/notebooks/ch1)
 
 - [Chapter 2](https://github.com/rcshubhadeep/qc4cs/tree/master/notebooks/ch2)
+
+- [Cahpter 3](https://github.com/rcshubhadeep/qc4cs/tree/master/notebooks/ch3)
